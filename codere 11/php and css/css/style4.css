@@ -1,0 +1,29 @@
+body {
+	background-image: url(http://carwallpaperhd.info/wp-content/uploads/2017/12/car-with-girl-wallpaper-beautiful-need-for-speed-carbon-girl-2-wallpapers-hd-wallpapers-of-car-with-girl-wallpaper.jpg);
+	background-size: cover;
+
+}
+
+
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    float: right;
+}
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+    color: white;
+}
+
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    color: #ec921e;
+}
+    
